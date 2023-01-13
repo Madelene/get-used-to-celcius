@@ -1,4 +1,4 @@
-# Get used to Celcius
+# Getting used to Celcius
 
 After moving to the UK, I noticed that there weren't any apps that displayed the temperature in both Celcius and Fahrenheit. 
 
